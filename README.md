@@ -1,6 +1,10 @@
 # mod3homework Password generator with starter code
 module 3 challenge 
 
+starter code found here: https://github.com/coding-boot-camp/friendly-parakeet
+
+website is live: 
+
 User Story
 
 AS AN employee with access to sensitive data
