@@ -3,7 +3,7 @@ module 3 challenge
 
 starter code found here: https://github.com/coding-boot-camp/friendly-parakeet
 
-website is live: 
+website is live: https://briancwilliams18.github.io/mod3homework/
 
 User Story
 
