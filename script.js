@@ -2,10 +2,10 @@
 
 // create random password 
 function generatePassword() {
-  // asks user for password length
+// asks user for password length
   let passwordLength = prompt("Enter the desired length of the password (8-128 characters):");
   
-  // Validate password length
+// Validate password length
   if (!(passwordLength >= 8 && passwordLength <= 128)) {
     alert("Invalid password length. Please enter a number between 8 and 128.");
     return ""; // keeps box empty if password cant be generated
@@ -55,6 +55,8 @@ function generatePassword() {
   // Return the generated password
   return password;
 }
+// End of assignment code
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
