@@ -30,7 +30,6 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-![main page displays a generate password button](screenshots\main-page.png)
+<img src="screenshots\main-page.png" alt="main page displays a generate password button">
 
-![prompt asking for charcter length](screenshots\prompt-character-length.png)
-
+<img src="screenshots\prompt-character-length.png" alt="prompt asking for charcter length">
